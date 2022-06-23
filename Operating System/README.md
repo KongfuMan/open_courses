@@ -1,4 +1,4 @@
 # Operating System
 
-## [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
+## [MIT 6.S081 Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/)
 
