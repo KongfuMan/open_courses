@@ -12,4 +12,4 @@ Keep updating, so stay tuned.
 
 ## [DataBase](Database/)
 
-## [Distributed Systems](Distributed Systems/)
+## [Distributed Systems](Distributed%20Systems/)
